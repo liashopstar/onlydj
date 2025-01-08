@@ -11,3 +11,7 @@ def register():
     password_1 = ""
     password_2 = ""
 
+
+def test():
+    des = 'te1224'
+    return des
