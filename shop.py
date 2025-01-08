@@ -11,3 +11,5 @@ def register():
     password_1 = ""
     password_2 = ""
 
+def test_code():
+    return False
