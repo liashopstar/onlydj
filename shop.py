@@ -16,3 +16,32 @@ def register():
 def test():
     des = 'te1224'
     return des
+
+
+def add_course():
+    title = ''
+    description = ''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
