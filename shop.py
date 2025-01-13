@@ -1,5 +1,5 @@
 def login():
-    return True
+    return False
 
 
 def logout():
@@ -10,6 +10,7 @@ def register():
     username = ""
     password_1 = ""
     password_2 = ""
+    code = ""
 
 
 
