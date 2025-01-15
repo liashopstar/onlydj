@@ -20,3 +20,6 @@ def test():
 
 def like_post():
     return True
+
+def profile():
+    return True
