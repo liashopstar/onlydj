@@ -13,13 +13,20 @@ def register():
     code = ""
 
 
+def Change_password():
+    return True
+
+
+
 
 def test():
     des = 'te1224'
     return des
 
+
 def like_post():
     return True
+
 
 def profile():
     return True
