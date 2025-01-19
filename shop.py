@@ -26,5 +26,6 @@ def like_post():
     return test()
 
 
-def profile():
-    return True
+class Profile():
+    def __init__(self, name):
+        return self.name
