@@ -29,3 +29,7 @@ def like_post():
 class Profile():
     def __init__(self, name):
         return self.name
+
+
+def edit(user):
+    return user
