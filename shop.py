@@ -33,3 +33,26 @@ class Profile():
 
 def edit(user):
     return user
+
+
+# this is a test in github
+phone = "123456789"
+name = "via"
+age = 18
+city = "L.A"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
